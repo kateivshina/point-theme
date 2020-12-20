@@ -26,17 +26,27 @@ I am involved with the Pace Center for Civic Engagement as a Service Focus fello
 
 ## 🦕 Projects
 
-I've recently ideated and created a song identification application using persistent homology techniques (Python)
+### Music Identification with Persistent Homology
+- [paper](/files/music_id.pdf)
+I've recently ideated and created a song identification application using persistent homology techniques (Python). The goal was to find a representation of songs as a time series of topological fingerprints, with a metric to compare pairs of time-varying shapes. My algorithm ccounts for noise distortions of input audio clips to identify music. 
 
 
-- cuda svm
+### Predicting Coronal Mass Ejections Using Topological Data Analysis-based Classifier
+- [paper](/files/tda.pdf)
+- [code](https://github.com/kateivshina/TDA-based-classifier) 
+During the summer of 2019, I have conducted independent work analyzing solar flare time-series data to predict coronal mass ejections. A Coronal Mass Ejection (CME) is a significant release of plasma and magnetic field from the Sun into interplanetary space. Despite the progress in numerical modeling, it is still unclear which conditions will produce a CME; however, it is known that CMEs and solar flares are associated as “a single magnetically driven event”. In my study, I created a topological data analysis-based classifier in Python from scratch to predict whether an M- or X-class flaring active region will produce a CME in the next 24 hours. I then presented my results to Stanford and Harvard physics professors.
+
+### SVM with RBF and polynomial kernels
+- [paper](/files/svm.pdf)
+
+### CUDA Implementations of the kNN Algorithm
+- [paper](/files/knn.pdf)
 
 
 ## 🦕 Research in High School
 
-During the summer of 2019, I have conducted independent work analyzing solar flare time-series data to predict coronal mass ejections. A Coronal Mass Ejection (CME) is a significant release of plasma and magnetic field from the Sun into interplanetary space. Despite the progress in numerical modeling, it is still unclear which conditions will produce a CME; however, it is known that CMEs and solar flares are associated as “a single magnetically driven event”. In my study, I created a topological data analysis-based classifier in Python from scratch to predict whether an M- or X-class flaring active region will produce a CME in the next 24 hours. I then presented my results to Stanford and Harvard physics professors.
 
-In addition, in the summer of 2018, I studied Forbush decreases in cosmic ray flux, analyzed URAGAN hodoscope muon data, and examined barometric effects in the cosmic ray muon and neutron flux at the National Research Nuclear University MEPhI in Moscow, Russia.
+In the summer of 2018, I studied Forbush decreases in cosmic ray flux, analyzed URAGAN hodoscope muon data, and examined barometric effects in the cosmic ray muon and neutron flux at the National Research Nuclear University MEPhI in Moscow, Russia.
 
 I have also worked with astronomers from the Ural Federal University Observatory on builiding and testing  a flat field light source that enhances stellar spectra precision. The tool is installed in the Observatory.
 
@@ -47,7 +57,7 @@ I have also worked with astronomers from the Ural Federal University Observatory
 ## 📠 Education
 
 -  Princeton University (2019-2023)
-I  lead problem solving sessions for the Single Variable Analysis with an Introduction to Proofs and Honors Linear Algebra courses. In addition, 
+I  lead problem solving sessions for the Single Variable Analysis with an Introduction to Proofs and Honors Linear Algebra courses. 
 Coursework: Accelerated Honors Analysis, Honors Linear Algebra, Applied Algebra, Advanced Electromagnetism, Classical Mechanics, Differential Equations, Quantum Mechanics, Writing Seminar, Electronic Music Composition, Venture Capital and Finance of Innovation, Research Methods in Astrophysics, Topics in Modern Astronomy, Integrated Science Curriculum (taught by a Nobel Laureate)
 
 
@@ -71,6 +81,6 @@ Additional Programs include:
 
 ## 👋🏻 Say hi
 
-
-- Source code: [@katavie/point-theme](http://github.com/katavie/point-theme)
-- [Issues](https://github.com/katavie/point-theme/issues)
+Email (ivshina at princeton dot edu) is a reliable way to reach me.
+- [github](https://github.com/kateivshina)
+- [LinkedIn](https://www.linkedin.com/in/ekaterina-ivshina/)
