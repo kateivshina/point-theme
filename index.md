@@ -28,19 +28,20 @@ I am involved with the Pace Center for Civic Engagement as a Service Focus fello
 
 ### Music Identification with Persistent Homology
 - [paper](/files/music_id.pdf)
-I've recently ideated and created a song identification application using persistent homology techniques (Python). The goal was to find a representation of songs as a time series of topological fingerprints, with a metric to compare pairs of time-varying shapes. My algorithm ccounts for noise distortions of input audio clips to identify music. 
+
+I've recently ideated and created a song identification application using persistent homology techniques (Python). The goal was to find a representation of songs as a time series of topological fingerprints, with a metric to compare pairs of time-varying shapes. My algorithm accounts for noise distortions of input audio clips to identify music. 
 
 
 ### Predicting Coronal Mass Ejections Using Topological Data Analysis-based Classifier
-- [paper](/files/tda.pdf)
-- [code](https://github.com/kateivshina/TDA-based-classifier) 
+- [paper](/files/tda.pdf), [code](https://github.com/kateivshina/TDA-based-classifier) 
+
 During the summer of 2019, I have conducted independent work analyzing solar flare time-series data to predict coronal mass ejections. A Coronal Mass Ejection (CME) is a significant release of plasma and magnetic field from the Sun into interplanetary space. Despite the progress in numerical modeling, it is still unclear which conditions will produce a CME; however, it is known that CMEs and solar flares are associated as “a single magnetically driven event”. In my study, I created a topological data analysis-based classifier in Python from scratch to predict whether an M- or X-class flaring active region will produce a CME in the next 24 hours. I then presented my results to Stanford and Harvard physics professors.
 
 ### SVM with RBF and polynomial kernels
-- [paper](/files/svm.pdf)
+- [paper](/files/svm.pdf), [code](https://github.com/kateivshina/cuda_svm_knn)
 
 ### CUDA Implementations of the kNN Algorithm
-- [paper](/files/knn.pdf)
+- [paper](/files/knn.pdf), [code](https://github.com/kateivshina/cuda_svm_knn)
 
 
 ## 🦕 Research in High School
@@ -61,8 +62,7 @@ I  lead problem solving sessions for the Single Variable Analysis with an Introd
 Coursework: Accelerated Honors Analysis, Honors Linear Algebra, Applied Algebra, Advanced Electromagnetism, Classical Mechanics, Differential Equations, Quantum Mechanics, Writing Seminar, Electronic Music Composition, Venture Capital and Finance of Innovation, Research Methods in Astrophysics, Topics in Modern Astronomy, Integrated Science Curriculum (taught by a Nobel Laureate)
 
 
-
-Additional Programs include:
+Additional educational programs include:
 - European Summer Program on Rationality at Oxford (2019)
 - Yale Young Global Scholars Program, Engineering Session (2018)
 - Engineering Summer Academy at Penn, Robotics program (2018)
@@ -71,6 +71,12 @@ Additional Programs include:
 - Entrepreneurship and innovation summer bootcamp at MIT (2018)
 - Winter School of Young Astronomer at Lomonosov Moscow State University (2018)
 
+## 📠 Publications
+ - Robin Etzel, Choukri Mekkaoui,Ekaterina S Ivshinaet al.”Coil Design Impacts Image Encoding:  Optimized64-Channel Array Configurations for Diffusion-Weighted Imaging in 3T Cardiac MRI”.  Submitted to ISMRM2021
+
+## 📠 Conferences
+- ”Physics of space” All-Russian college-level conference speaker as a 10th grader (Ural Federal University, Russia, 2018)
+- ”Scientists of the Future” international high school research conference (Lomonosov Moscow State University, Russia, 2018)
 
 ## 📠 Accomplishments
 - All-Russian Astronomy Olympiad - ranked top 3 in state, top 50 nationally (2018, 2019)
