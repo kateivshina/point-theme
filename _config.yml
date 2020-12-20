@@ -9,7 +9,7 @@ url: https://kateivshina.netlify.app
 
 # for header and meta tags
 title: Ekaterina Ivshina 🎯
-description: Student research at Princeton University
+description: Student researcher at Princeton University
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
@@ -20,17 +20,17 @@ nav-links:
   - name: Blog
     url: /blog
     external: false
-  - name: Contact
-    url: /contact
-    external: false
-  - name: Search Engine
-    url: https://duckduckgo.com
+  #- name: Contact
+  #  url: /contact
+  #  external: false
+  - name: Resume
+    url: /files/cv.pdf
     external: true
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me.jpg
 # 100-200 characters recommended
-greeting_text: Hi, I'm Kate, a physics student at Princeton University.
+greeting_text: Hi, I'm Kate, I like creating projects with code, physics and Math.
 
 # show blog post excerpts on blog page
 show_excerpts: false
