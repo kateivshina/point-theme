@@ -14,7 +14,7 @@ Outside of the Orange Bubble, I work with Choukri Mekkaoui, Assistant Professor 
 
 ## 🦕 Startups
 
-I enjoy the startup culture, and I have been a machine learning intern at GenusOne Inc. since May 2019. Working with the founding team, I've developed documentation for the company’s platform, implemented GPU-based versions of kNN and SVM classifiers in C++ and have created and tested a number of original machine learning applications. 
+I enjoy startups just as much as academia, and I have been a machine learning intern at GenusOne Inc. since May 2019. Working with the founding team, I've developed documentation for the company’s platform and have created & tested a number of original machine learning applications. Additionally, I iimplemented GPU-based versions of kNN and SVM classifiers in C++ to demostrate the efficiency of the company's platform.
 
 To learn more about startups, in Fall 2020, I have taken the "Venture Capital and Finance of Innovation" class, where I've been learning how to use capital to create value from some of the most prominent speakers in the VC world (Klein Perkins, Bain Capital, Emergence Capital, etc.)
 
@@ -22,7 +22,7 @@ To learn more about startups, in Fall 2020, I have taken the "Venture Capital an
 
 ## 🌱 Service
 
-I am involved with the Pace Center for Civic Engagement as a Service Focus fellow: in the Education & Access cohort, we have been examining questions related to education inequality & access to opportunity and ways we can tackle the problem. As a racial justice fellow, I have also been helping Princeton's Prison Teaching Initiative team to create lectures and assignments for the first ever Java-based Computer Science curriculum to be taught in NJ prisons.
+As an international student from a remote region in Russia, I am certainly familiar with societal inequities and lack of access to opportunities that exist in the area of education. Hence, I am involved with the Pace Center for Civic Engagement as a Service Focus fellow: in the Education & Access cohort, we have been examining questions related to education inequality & access to opportunity and ways we can tackle the problem. As a racial justice fellow, I have also been helping Princeton's Prison Teaching Initiative team to create lectures and assignments for the first ever Java-based Computer Science curriculum to be taught in NJ prisons.
 
 ## 🦕 Projects
 
