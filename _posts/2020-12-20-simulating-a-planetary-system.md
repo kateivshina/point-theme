@@ -16,6 +16,10 @@ $y = x^2 \hbox{ when $x > 2$}$
 a + b_k = c
 ```
 
+<img src="https://latex.codecogs.com/svg.latex?\frac{d\overline{v_i}}{dt}&space;=\sum_{i&space;\neq&space;j}^{N}&space;\frac{Gm_j&space;\overline{r_{ij}}}{r_{ij}^3}" title="\frac{d\overline{v_i}}{dt} =\sum_{i \neq j}^{N} \frac{Gm_j \overline{r_{ij}}}{r_{ij}^3}" />
+
+ 
+
 ## Two-body integrator with leapfrog method
 
 
