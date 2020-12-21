@@ -1,12 +1,12 @@
 ---
 ---
 
-## 🐯 What I do at Princeton
+## 🤷 What I do at Princeton
 
 I'm a second-year physics student at Princeton University. At Princeton, I am a research assistant in the astrophysics department, working with Josh Winn on detecting timing deviations in the TESS transit timing data of hot Jupiters 🌍. It was shown theoretically that the orbits of many known hot Jupiters should be slowly shrinking because of the tidal interactions between the star and the planet. However, the timescale of tidal evolution is difficult to estimate theoretically. To date, the only known hot Jupiter for which orbital decay has been detected is WASP-12b. In this work, we search for evidence of tidal orbital decay by analyzing long-term timing of the transits of hot Jupiters. We are producing a list of the measured mid-transit times for each target, along with the newly-derived orbital periods.  This information will be useful to any future investigators who wish to schedule future observations of these planets — for example, with NASA’s James Webb Space Telescope. 
 
 
-## 🤷  What I do outside of Princeton
+## 📖  What I do outside of Princeton
 
 Outside of the Orange Bubble, I work with Choukri Mekkaoui, Assistant Professor at Harvard Medical School, on improving cardiac diffusion MRI registration & denoising pipelines using machine learning. Advances in cardiac diffusion tractography imaging (CDTI) have both reduced scan times and improved achievable resolution. Recently, CDTI has been used to assess myocardial structure in myocardial infarction, heart failure, cardiomyopathy, and myocardial regeneration, demonstrating unique and modality-complimentary diagnostic and prognostic value. However, in vivo DT-MRI of the heart implies a low signal-to-noise ratio (SNR) since the diffusion contrast relies on locally lossy signal dephasing in the presence of short myocardial T2 relaxation. Our denoising & registration protocol could shorten total scan time for CDTI by reducing the number of averages needed, which would have a big impact on patient experience and accuracy of results.  
 
@@ -26,16 +26,23 @@ As an international student from a remote region in Russia, I am certainly famil
 
  
 
-## 👩‍💻 Research in High School
+## 📝 Publications
+ - Robin Etzel, Choukri Mekkaoui, **Ekaterina S Ivshina** et al.”Coil Design Impacts Image Encoding:  Optimized64-Channel Array Configurations for Diffusion-Weighted Imaging in 3T Cardiac MRI”.  Submitted to ISMRM2021
+
+<!---
+## 📎 Conferences
+- ”Physics of space” All-Russian college-level conference speaker as a 10th grader (Ural Federal University, Russia, 2018)
+- ”Scientists of the Future” international high school research conference (Lomonosov Moscow State University, Russia, 2018)
+--->
 
 
-In the summer of 2018, I studied Forbush decreases in cosmic ray flux, analyzed URAGAN hodoscope muon data, and examined barometric effects in the cosmic ray muon and neutron flux at the National Research Nuclear University MEPhI in Moscow, Russia.
 
-I have also worked with astronomers from the Ural Federal University Observatory on builiding and testing  a flat field light source that enhances stellar spectra precision. The tool is installed in the Observatory.
-
-In my senior year of high school, I’ve had the honor to be selected as one of the ten Russian students to travel to India to present my astrophysics research to the President of Russia and Prime Minister of India in October 2018.
-
- 
+## 📠 Accomplishments
+- Euro-Asian Astronomical Society Award (2018)
+- Invited to showcase my research to Prime Minister of India and President of Russia (2018)
+- Winner, ”Scientists of the Future” international research competition (INTEL ISEF qualifying fair, 2018)
+- All-Russian Astronomy Olympiad - ranked top 3 in state, top 50 nationally (2018, 2019)
+- PhysTech” National Physics Olympiad - 3rd place (2019)
 
 ## 🎒 Education
 
@@ -54,21 +61,19 @@ Additional educational programs I participated in include:
 - Entrepreneurship and innovation summer bootcamp at MIT (2018)
 - Winter School of Young Astronomer at Lomonosov Moscow State University (2018)
 
-## 📝 Publications
- - Robin Etzel, Choukri Mekkaoui, **Ekaterina S Ivshina** et al.”Coil Design Impacts Image Encoding:  Optimized64-Channel Array Configurations for Diffusion-Weighted Imaging in 3T Cardiac MRI”.  Submitted to ISMRM2021
 
-<!---
-## 📎 Conferences
-- ”Physics of space” All-Russian college-level conference speaker as a 10th grader (Ural Federal University, Russia, 2018)
-- ”Scientists of the Future” international high school research conference (Lomonosov Moscow State University, Russia, 2018)
---->
-## 📠 Accomplishments
-- Euro-Asian Astronomical Society Award (2018)
-- Invited to showcase my research to Prime Minister of India and President of Russia (2018)
-- Winner, ”Scientists of the Future” international research competition (INTEL ISEF qualifying fair, 2018)
-- All-Russian Astronomy Olympiad - ranked top 3 in state, top 50 nationally (2018, 2019)
-- PhysTech” National Physics Olympiad - 3rd place (2019)
 
+## 👩‍💻 Research in High School
+
+
+In the summer of 2018, I studied Forbush decreases in cosmic ray flux, analyzed URAGAN hodoscope muon data, and examined barometric effects in the cosmic ray muon and neutron flux at the National Research Nuclear University MEPhI in Moscow, Russia.
+
+I have also worked with astronomers from the Ural Federal University Observatory on builiding and testing  a flat field light source that enhances stellar spectra precision. The tool is installed in the Observatory.
+
+In my senior year of high school, I’ve had the honor to be selected as one of the ten Russian students to travel to India to present my astrophysics research to the President of Russia and Prime Minister of India in October 2018.
+
+ 
+ 
 ## 👋🏻 Say hi
 
 Email (ivshina at princeton dot edu) is a reliable way to reach me.
