@@ -335,3 +335,44 @@ for n in range(1, tsize):                         # loop over times
 
 
 ## FFT’ing a planetary system.
+
+Now that we have an orbit integrated with constant timestep, we can analyze its time series using an FFT and check that it has the same period P as declared on the exoplanet catalogue website. We take the time series <img src="https://latex.codecogs.com/svg.latex?v_x(t)" title="v_x(t)" /> from our leapfrog integration above and FFT it. 
+
+
+``` python
+t = t_x ; d = t[1]-t[0]
+N = t.shape[0] 
+yf = np.fft.rfft(vx)
+f = np.fft.fftfreq(N,d)
+f = np.abs(f[0:(N//2+1)])
+spec = 2*abs(yf)/N
+``` 
+
+
+We then use this to plot the power spectrum of the signal versus frequency f.
+
+``` python
+fig, axes = plt.subplots(nrows=2, ncols=1, figsize=(4,6))
+axes = axes.flatten()
+axes[0].plot(t_x[:10000],vx[:10000])
+axes[0].set_title("time-domain signal")
+axes[0].set_xlabel(r"$t [yr]$",fontsize=font)
+axes[0].set_ylabel(r"$v_x(t), [AU/yr]$",fontsize=font)
+#axes[0].set_xticks([0,0.2,0.4,0.6,0.8,1.0])
+axes[1].plot(f,spec)
+axes[1].set_title("Fourier-domain spectrum")
+#axes[1].set_xticks(8*np.arange(N//16+1))
+axes[1].set_xlabel(r"$f [yr^-1]$",fontsize=font)
+axes[1].set_ylabel(r"$|\hat{y}_f|$",fontsize=font)
+axes[1].set_xlim([0,500])
+for ax in axes:
+  ax.tick_params(which='both',direction='in',top=True,right=True)
+  ax.tick_params(which='major',length=5)
+  ax.tick_params(which='minor',length=3)
+fig.tight_layout()
+plt.show()
+``` 
+
+![name](/files/simulating-a-planetary-system/fft.png) | 
+
+
