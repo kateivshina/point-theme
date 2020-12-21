@@ -76,6 +76,6 @@ In my senior year of high school, I’ve had the honor to be selected as one of 
  
 ## 👋🏻 Say hi
 
-Email (ivshina at princeton dot edu) is a reliable way to reach me.
+- Email (ivshina at princeton dot edu) is a reliable way to reach me.
 - [GitHub](https://github.com/kateivshina)
 - [LinkedIn](https://www.linkedin.com/in/ekaterina-ivshina/)
