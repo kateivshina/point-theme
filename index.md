@@ -76,10 +76,11 @@ Additional educational programs include:
 ## 📝 Publications
  - Robin Etzel, Choukri Mekkaoui, **Ekaterina S Ivshina** et al.”Coil Design Impacts Image Encoding:  Optimized64-Channel Array Configurations for Diffusion-Weighted Imaging in 3T Cardiac MRI”.  Submitted to ISMRM2021
 
+<!---
 ## 📎 Conferences
 - ”Physics of space” All-Russian college-level conference speaker as a 10th grader (Ural Federal University, Russia, 2018)
 - ”Scientists of the Future” international high school research conference (Lomonosov Moscow State University, Russia, 2018)
-
+--->
 ## 📠 Accomplishments
 - Euro-Asian Astronomical Society Award (2018)
 - Invited to showcase my research to Prime Minister of India and President of Russia (2018)
