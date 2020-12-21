@@ -5,7 +5,7 @@
 #
 
 # no trailing slash
-url: https://kateivshina.netlify.app
+url: kateivshina.com
 
 # for header and meta tags
 title: Ekaterina Ivshina 🎯
@@ -18,7 +18,7 @@ nav-links:
     url: /
     external: false
   - name: Projects
-    url: /blog
+    url: /projects
     external: false
   #- name: Contact
   #  url: /contact
