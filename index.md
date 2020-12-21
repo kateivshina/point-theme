@@ -14,7 +14,7 @@ Outside of the Orange Bubble, I work with Choukri Mekkaoui, Assistant Professor 
 
 ## 🦕 Startups
 
-I enjoy startups just as much as academia, and I have been a machine learning intern at GenusOne Inc. since May 2019. Working with the founding team, I've developed documentation for the company’s platform and have created & tested a number of original machine learning applications. Additionally, I iimplemented GPU-based versions of kNN and SVM classifiers in C++ to demostrate the efficiency of the company's platform.
+I enjoy startups just as much as academia, and I have been a machine learning intern at GenusOne Inc. since May 2019. Working with the founding team, I've developed documentation for the company’s platform and have created & tested a number of original machine learning applications. Additionally, I implemented GPU-based versions of kNN and SVM classifiers in C++ to demostrate the efficiency of the company's platform.
 
 To learn more about startups, in Fall 2020, I have taken the "Venture Capital and Finance of Innovation" class, where I've been learning how to use capital to create value from some of the most prominent speakers in the VC world (Klein Perkins, Bain Capital, Emergence Capital, etc.)
 
@@ -26,8 +26,8 @@ As an international student from a remote region in Russia, I am certainly famil
 
  
 
-## 📝 Publications
- - Robin Etzel, Choukri Mekkaoui, **Ekaterina S Ivshina** et al.”Coil Design Impacts Image Encoding:  Optimized64-Channel Array Configurations for Diffusion-Weighted Imaging in 3T Cardiac MRI”.  Submitted to ISMRM2021
+## 📎 Publications
+ - Robin Etzel, Choukri Mekkaoui, **Ekaterina S Ivshina** et al.”Coil Design Impacts Image Encoding:  Optimized 64-Channel Array Configurations for Diffusion-Weighted Imaging in 3T Cardiac MRI”.  Submitted to ISMRM2021
 
 <!---
 ## 📎 Conferences
@@ -68,7 +68,7 @@ Additional educational programs I participated in include:
 
 In the summer of 2018, I studied Forbush decreases in cosmic ray flux, analyzed URAGAN hodoscope muon data, and examined barometric effects in the cosmic ray muon and neutron flux at the National Research Nuclear University MEPhI in Moscow, Russia.
 
-I have also worked with astronomers from the Ural Federal University Observatory on builiding and testing  a flat field light source that enhances stellar spectra precision. The tool is installed in the Observatory.
+I have also worked with astronomers from the Ural Federal University Observatory on builiding and testing  a flat field light source that enhances stellar spectra quality. The tool is installed in the Observatory.
 
 In my senior year of high school, I’ve had the honor to be selected as one of the ten Russian students to travel to India to present my astrophysics research to the President of Russia and Prime Minister of India in October 2018.
 
