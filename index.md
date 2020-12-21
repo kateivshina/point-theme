@@ -22,7 +22,7 @@ To learn more about startups, in Fall 2020, I have taken the "Venture Capital an
 
 ## 🌱 Service
 
-As an international student from a remote region in Russia, I am certainly familiar with societal inequities and lack of access to opportunities that exist in the area of education. Hence, I am involved with the Pace Center for Civic Engagement as a Service Focus fellow: in the Education & Access cohort, we have been examining questions related to education inequality & access to opportunity and ways we can tackle the problem. As a racial justice fellow, I have also been helping Princeton's Prison Teaching Initiative team to create lectures and assignments for the first ever Java-based Computer Science curriculum to be taught in NJ prisons.
+As an international student from a remote region in Russia, I am familiar with societal inequities and lack of access to opportunities that exist in the area of education. Hence, I am involved with the Pace Center for Civic Engagement as a Service Focus fellow: in the Education & Access cohort, we have been examining questions related to education inequality & access to opportunity and ways we can tackle the problem. As a racial justice fellow, I have also been helping Princeton's Prison Teaching Initiative team to create lectures and assignments for the first ever Java-based Computer Science curriculum to be taught in NJ prisons.
 
  
 
@@ -44,31 +44,26 @@ As an international student from a remote region in Russia, I am certainly famil
 - All-Russian Astronomy Olympiad - ranked top 3 in state, top 50 nationally (2018, 2019)
 - PhysTech” National Physics Olympiad - 3rd place (2019)
 
-## 🎒 Education
+## 🎒 Coursework
 
--  Princeton University (2019-2023)
+In college, I've taken the following classes: Accelerated Honors Analysis, Honors Linear Algebra, Applied Algebra, Differential Equations, Advanced Electromagnetism, Classical Mechanics, Quantum Mechanics, Research Methods in Astrophysics, Topics in Modern Astronomy, Writing Seminar, Electronic Music Composition, Venture Capital and Finance of Innovation, Integrated Science Curriculum (taught by a Nobel Laureate)
 
-
-
-**Coursework**: Accelerated Honors Analysis, Honors Linear Algebra, Applied Algebra, Advanced Electromagnetism, Classical Mechanics, Differential Equations, Quantum Mechanics, Writing Seminar, Electronic Music Composition, Venture Capital and Finance of Innovation, Research Methods in Astrophysics, Topics in Modern Astronomy, Integrated Science Curriculum (taught by a Nobel Laureate)
-
-I  lead problem solving sessions for the Single Variable Analysis with an Introduction to Proofs and Honors Linear Algebra courses. 
+I  also lead problem solving sessions for the Single Variable Analysis with an Introduction to Proofs course in Fall 2020. 
 
 Additional educational programs I participated in include:
-- European Summer Program on Rationality at Oxford (2019)
-- Yale Young Global Scholars Program, Engineering Session (2018)
-- Engineering Summer Academy at Penn, Robotics program (2018)
-- Entrepreneurship and innovation summer bootcamp at MIT (2018)
-- Winter School of Young Astronomer at Lomonosov Moscow State University (2018)
+- European Summer Program on Rationality (Oxford, UK, 2019)
+- Yale Young Global Scholars Program, Engineering Session (New Haven, 2018)
+- Engineering Summer Academy at Penn, Robotics program (Philadelphia, 2018)
+- Entrepreneurship and innovation summer bootcamp at MIT (Boston, 2018)
+- Winter School of Young Astronomer at Lomonosov Moscow State University (Moscow, 2018)
 
 
 
-## 👩‍💻 Research in High School
+## 👩‍💻 What I've done before
 
+In high school, I have worked with astronomers from the Ural Federal University Observatory on builiding and testing  a flat field light source that enhances stellar spectra quality. The tool is installed in the Observatory.
 
 In the summer of 2018, I studied Forbush decreases in cosmic ray flux, analyzed URAGAN hodoscope muon data, and examined barometric effects in the cosmic ray muon and neutron flux at the National Research Nuclear University MEPhI in Moscow, Russia.
-
-I have also worked with astronomers from the Ural Federal University Observatory on builiding and testing  a flat field light source that enhances stellar spectra quality. The tool is installed in the Observatory.
 
 In my senior year of high school, I’ve had the honor to be selected as one of the ten Russian students to travel to India to present my astrophysics research to the President of Russia and Prime Minister of India in October 2018.
 
@@ -76,6 +71,6 @@ In my senior year of high school, I’ve had the honor to be selected as one of 
  
 ## 👋🏻 Say hi
 
-- Email (ivshina at princeton dot edu) is a reliable way to reach me.
+- Email (ivshina@princeton.edu) is a reliable way to reach me.
 - [GitHub](https://github.com/kateivshina)
 - [LinkedIn](https://www.linkedin.com/in/ekaterina-ivshina/)
