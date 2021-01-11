@@ -1,5 +1,5 @@
 ---
-title: Simulating a planetary system 
+title: Simulating a planetary system (N-body integrator  + FFT)
 ---
 
 In this project, we write a two-body integrator using fourth-order Runge-Kutta (RK4) integration method. Additionally, we write a python routine to integrate the two-body system using the leapfrog method. We then study HAT-P-21 exoplanetary system, using our two-body integrator and FFT.
@@ -334,7 +334,7 @@ for n in range(1, tsize):                         # loop over times
 
 
 
-## FFT’ing a planetary system.
+## FFT’ing a planetary system
 
 Now that we have an orbit integrated with constant timestep, we can analyze its time series using an FFT and check that it has the same period P as declared on the exoplanet catalogue website. We take the time series <img src="https://latex.codecogs.com/svg.latex?v_x(t)" title="v_x(t)" /> from our leapfrog integration above and FFT it. 
 
