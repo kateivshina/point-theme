@@ -3,7 +3,7 @@
 
 ## 🤷 What I do
 
-I'm a second-year physics student at Princeton University. At Princeton, I do research studying timing deviations in the TESS transit timing data of hot Jupiters 🌍. It was shown theoretically that the orbits of many known hot Jupiters should be slowly shrinking because of the tidal interactions between the star and the planet. However, the timescale of tidal evolution is difficult to estimate theoretically. To date, the only known hot Jupiter for which orbital decay has been detected is WASP-12b. In this work, we search for evidence of tidal orbital decay by analyzing long-term timing of the transits of hot Jupiters 
+I'm a second-year physics student at Princeton University. At Princeton, I do research studying timing deviations in the TESS transit timing data of hot Jupiters 🌍. It was shown theoretically that the orbits of many known hot Jupiters should be slowly shrinking because of the tidal interactions between the star and the planet. However, the timescale of tidal evolution is difficult to estimate theoretically. To date, the only known hot Jupiter for which orbital decay has been detected is WASP-12b. In this work, I search for evidence of tidal orbital decay by analyzing long-term timing of the transits of hot Jupiters. 
 
  
 
