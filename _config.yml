@@ -17,9 +17,9 @@ nav-links:
   - name: Home
     url: /
     external: false
-  - name: Projects
-    url: /projects
-    external: false
+  #- name: Projects
+  #  url: /projects
+  #  external: false
   #- name: Contact
   #  url: /contact
   #  external: false
