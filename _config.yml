@@ -8,7 +8,7 @@
 url: https://kateivshina.netlify.app
 
 # for header and meta tags
-title: Ekaterina Ivshina 🎯
+title: Ekaterina Ivshina
 description: Student researcher at Princeton University
 
 # set external to true if linking outside your website
@@ -17,6 +17,7 @@ nav-links:
   - name: Home
     url: /
     external: false
+    # 🎯
   #- name: Projects
   #  url: /projects
   #  external: false
